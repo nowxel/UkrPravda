@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UkrPravda</string>
+    <string name="menu">Меню</string>
+    <string name="title">УКРАЇНСЬКА ПРАВДА</string>
+    <string name="club_up">КЛУБ УП</string>
+    <string name="main">ГОЛОВНА</string>
+    <string name="news">НОВИНИ</string>
+    <string name="articles">ПУБЛІКАЦІЇ</string>
+    <string name="columns">КОЛОНКИ</string>
+    <string name="interview">ІНТЕРВʼЮ</string>
+    <string name="reports">РЕПОРТАЖ</string>
+    <string name="blogs">БЛОГИ</string>
+    <string name="podcasts">ПОДКАСТИ</string>
+    <string name="projects">СПЕЦПРОЄКТИ</string>
+    <string name="archives">АРХІВ</string>
+    <string name="ukr">УКР</string>
+    <string name="rus">РУС</string>
+    <string name="eng">ENG</string>
+    <string name="search_hint">ПОШУК ПО САЙТУ</string>
+    <string name="search">ЗНАЙТИ</string>
+    <string name="up_shop">UP SHOP</string>
+    <string name="sections">РОЗДІЛИ</string>
+</resources>
